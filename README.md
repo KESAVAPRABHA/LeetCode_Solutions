@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
