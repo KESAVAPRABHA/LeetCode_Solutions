@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 ## String
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
