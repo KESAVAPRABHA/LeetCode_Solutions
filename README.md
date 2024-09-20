@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 ## Dynamic Programming
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
