@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1205-defanging-an-ip-address](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1205-defanging-an-ip-address) |
 ## Dynamic Programming
 |  |
 | ------- |
