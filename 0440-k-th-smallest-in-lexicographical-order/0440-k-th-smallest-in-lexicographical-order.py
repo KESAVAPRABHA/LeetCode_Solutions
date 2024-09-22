@@ -11,7 +11,7 @@ class Solution(object):
             return steps
         
         curr = 1
-        k -= 1  # Subtract 1 because we consider the first number as curr
+        k -= 1 
         
         while k > 0:
             steps = count_steps(curr, n)
