@@ -41,15 +41,4 @@ class Solution {
             return LESS_THAN_20[num / 100] + " Hundred " + processSegment(num % 100);
         }
     }
-
-    public static void main(String[] args) {
-        int num1 = 123;
-        System.out.println(numberToWords(num1));
-
-        int num2 = 12345;
-        System.out.println(numberToWords(num2));
-
-        int num3 = 1234567;
-        System.out.println(numberToWords(num3));
-    }
 }
