@@ -1,35 +1,26 @@
 class Solution {
-
     private static final String[] LESS_THAN_20 = {
             "", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten",
             "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"
     };
-
     private static final String[] TENS = {
             "", "", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"
     };
-
     private static final String[] THOUSANDS = {"", "Thousand", "Million", "Billion"};
-
     public static String numberToWords(int num) {
         if (num == 0) {
             return "Zero";
         }
-
         int i = 0;
         String words = "";
-
         while (num > 0) {
             if (num % 1000 != 0) {
                 words = processSegment(num % 1000) + THOUSANDS[i] + " " + words;
             }
             num /= 1000;
             i++;
-        }
-
-        return words.trim();
+        }return words.trim();
     }
-
     private static String processSegment(int num) {
         if (num == 0) {
             return "";
