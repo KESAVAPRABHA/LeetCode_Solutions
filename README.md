@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
