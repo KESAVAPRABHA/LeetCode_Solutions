@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
