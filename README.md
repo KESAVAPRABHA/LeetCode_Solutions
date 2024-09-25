@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
