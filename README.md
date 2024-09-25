@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
