@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
@@ -185,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
