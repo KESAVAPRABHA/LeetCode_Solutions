@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Sorting
