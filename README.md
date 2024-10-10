@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
+| [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Math
 |  |
 | ------- |
