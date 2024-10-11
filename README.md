@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
@@ -203,11 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
