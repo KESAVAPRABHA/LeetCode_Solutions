@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
@@ -126,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 ## Math
 |  |
