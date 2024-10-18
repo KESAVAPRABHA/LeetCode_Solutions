@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
 |  |
@@ -226,4 +228,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
