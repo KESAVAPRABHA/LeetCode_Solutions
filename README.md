@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0782-jewels-and-stones](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0432-all-oone-data-structure](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0432-all-oone-data-structure) |
+| [0782-jewels-and-stones](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
