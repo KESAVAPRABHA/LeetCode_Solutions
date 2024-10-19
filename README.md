@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1205-defanging-an-ip-address) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
