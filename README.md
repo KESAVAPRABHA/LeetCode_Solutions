@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Brainteaser
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
