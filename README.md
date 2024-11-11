@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
