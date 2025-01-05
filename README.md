@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2465-shifting-letters-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1205-defanging-an-ip-address) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2465-shifting-letters-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [2465-shifting-letters-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
