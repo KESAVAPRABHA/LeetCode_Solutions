@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
