@@ -5,8 +5,6 @@ class Solution {
         nums[j]=temp;
     }
     public void sortColors(int[] nums) {
-        // Arrays.sort(nums);
-        int temp=0;
         int m=0;
         int l=0;
         int h=nums.length-1;
