@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
