@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1310-watering-plants](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1310-watering-plants) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
+| [1310-watering-plants](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1310-watering-plants) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Depth-First Search
 |  |
