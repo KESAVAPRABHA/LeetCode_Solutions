@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2465-shifting-letters-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
