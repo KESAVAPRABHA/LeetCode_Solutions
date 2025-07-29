@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Divide and Conquer
 |  |
