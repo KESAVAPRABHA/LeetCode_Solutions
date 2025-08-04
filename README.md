@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0069-sqrtx) |
