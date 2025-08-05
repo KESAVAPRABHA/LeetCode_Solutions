@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [1310-watering-plants](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1310-watering-plants) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -315,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
