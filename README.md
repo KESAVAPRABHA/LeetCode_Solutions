@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Divide and Conquer
 |  |
 | ------- |
