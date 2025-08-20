@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0585-investments-in-2016](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0585-investments-in-2016) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1292-immediate-food-delivery-ii) |
