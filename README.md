@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Linked List
@@ -345,8 +347,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
