@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0742-to-lower-case](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1197-parsing-a-boolean-expression) |
