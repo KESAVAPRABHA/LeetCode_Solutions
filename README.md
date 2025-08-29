@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
