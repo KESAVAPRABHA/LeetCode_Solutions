@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1755-defuse-the-bomb](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1755-defuse-the-bomb) |
+| [1917-maximum-average-pass-ratio](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Backtracking
 |  |
