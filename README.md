@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3194-find-words-containing-character](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -364,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0112-path-sum) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
