@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Divide and Conquer
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [1310-watering-plants](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1310-watering-plants) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0859-design-circular-deque) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Doubly-Linked List
 |  |
 | ------- |
