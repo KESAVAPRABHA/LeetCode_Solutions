@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Greedy
 |  |
