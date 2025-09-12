@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3462-vowels-game-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -380,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/KESAVAPRABHA/LeetCode_Solutions/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
